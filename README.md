@@ -1,7 +1,7 @@
 # Databázový systém
 autor: Jiří Laštovka
 
-Pro zajištění ideálích podmínek ke spuštění programu by uživatel měl vlastnit program PyCharm,
+Pro zajištění ideálních podmínek ke spuštění programu by uživatel měl vlastnit program PyCharm,
 ve kterém lze program spustit. Lze jej nainstalovat zde https://www.jetbrains.com/pycharm/download
 
 Pro zprovoznění databáze je zapotřebí libovolné MSSQL připojení, přes které se spustí skript database.sql,
