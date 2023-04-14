@@ -1,4 +1,5 @@
 # Databázový systém
+
 autor: Jiří Laštovka
 
 Pro zajištění ideálních podmínek ke spuštění programu by uživatel měl vlastnit program PyCharm,
